@@ -1,4 +1,4 @@
-Upload file to IPFS (it gives CID for the file) with the help of pinata and store url on blockchain using contract.
+Upload file to IPFS (it gives CID for the file) and store url on blockchain using contract.
 
 # Decentralized Image Upload and Sharing
 
